@@ -20,4 +20,4 @@ Advanced Insights: Performance benchmarking by region/channel, trend forecasting
 Scalability: Enterprise-grade data refresh, complex DAX for custom metrics (sales velocity/growth rates), RLS-ready security framework
 
 ## 6. Screenshot
-[Alt_text]()
+[Alt_text](https://github.com/Pulkitkunal/Retail-Sales-Analytics-Dashboard/blob/main/Snapshot%20of%20Retail%20Sales%20Analytics%20Dashboard.png)
